@@ -12,23 +12,36 @@ The survey was distributed via email to a group of students. An invitation to pa
 **Statistical Tests**
 **Score Test**
 The score test was used to compare different proportions or rates between subgroups of the student population. This test helps evaluate whether the observed differences in proportions are statistically significant.
+
 **Steps:**
+
 Define the null and alternative hypotheses.
+
 Compute the test statistic based on survey data.
+
 Evaluate the p-value to assess statistical significance.
+
 
 **Spearman Correlation Test**
 The Spearman rank correlation test was used to determine the relationship between two ordinal variables, such as the relationship between the number of study hours and academic satisfaction.
+
 **Steps:**
+
 Rank the data for each variable.
+
 Compute the Spearman correlation coefficient.
+
 Evaluate whether the correlation is statistically significant.
 
 **Decision Tree**
 A decision tree analysis was performed to predict a student's level of satisfaction based on their responses to various survey questions. The decision tree algorithm models the relationships between variables and creates a tree structure that helps in predicting outcomes.
+
 **Steps:**
+
 Preprocess the survey data and handle any missing values.
+
 Train the decision tree model using the survey responses.
+
 Visualize the decision tree to understand decision-making patterns.
 
 **Data Analysis**
