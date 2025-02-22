@@ -48,8 +48,11 @@ Visualize the decision tree to understand decision-making patterns.
 The collected survey data was cleaned and preprocessed before performing the above statistical tests. Missing values were handled using appropriate imputation techniques, and the data was split into training and test sets for the decision tree analysis.
 
 **Results and Insights**
+
 **Score Test:** The test revealed statistically significant differences between satisfaction levels among students based on their involvement in extracurricular activities.
+
 **Spearman Correlation:** A moderate positive correlation was found between the number of study hours and academic satisfaction.
+
 **Decision Tree:** The decision tree identified that the number of hours spent on extracurricular activities is a key predictor of academic satisfaction.
 
 **Conclusion**
