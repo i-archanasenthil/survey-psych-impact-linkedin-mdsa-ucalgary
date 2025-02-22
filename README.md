@@ -1,4 +1,5 @@
-Student Survey Analysis - README
+**Student Survey Analysis - README**
+
 This repository outlines the steps and methodologies used to conduct an email-based survey on students and analyze the responses using various statistical techniques. The key analyses performed are:
 
 1) Score Test
